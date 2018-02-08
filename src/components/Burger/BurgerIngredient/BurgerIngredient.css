@@ -97,7 +97,7 @@
     border-radius: 20px;
 }
 
-.Salad {
+.Lettuce {
     width: 85%;
     height: 7%;
     margin: 2% auto;
@@ -111,3 +111,45 @@
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
 }
+
+.Onion {
+    width: 80%;
+    height: 3%;
+    background: linear-gradient(#ff66ff, #cc00cc);
+    margin: 2% auto;
+    border-radius: 20px;
+}
+
+.Tomato {
+    width: 80%;
+    height: 3%;
+    background: linear-gradient(red, #ff8080);
+    margin: 2% auto;
+    border-radius: 20px;
+}
+
+.Pickles {
+    height: 3%;
+    width: 80%;
+    margin: auto;
+    position: relative;
+}
+
+.Pickle1 {
+    height: 60%;
+    width: 45%; 
+    background-color: green;
+    float: left;
+    border-radius: 25px;
+}
+
+.Pickle2 {
+    height: 60%;
+    width: 45%; 
+    background-color: green;
+    float: right;
+    border-radius: 25px;
+}
+
+
+
